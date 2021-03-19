@@ -1,4 +1,4 @@
-# Projects
+
 Some small scale projects that I have done in the process of learning programmingLanguage : C++
 
 Title : Luhn’s Algorithm
